@@ -1,4 +1,4 @@
-conver this docker file to use mongo db in the above way  : # Use official OpenJDK 17 as base image
+#conver this docker file to use mongo db in the above way  : # Use official OpenJDK 17 as base image
 FROM openjdk:17-oracle
 
 # Set working directory
